@@ -16,7 +16,7 @@
 #
 
 name "oc-pushy-pedant"
-default_version "1.0.6"
+default_version "ma/update-chef-version"
 
 dependency "libzmq"
 dependency "ruby"
