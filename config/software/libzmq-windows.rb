@@ -16,7 +16,7 @@
 #
 
 name "libzmq-windows"
-default_version "2.2.0"
+default_version "4.0.4"
 
 zmq_installer = "ZeroMQ-#{version}~miru1.0-win32.exe"
 

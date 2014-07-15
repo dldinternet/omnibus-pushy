@@ -16,7 +16,7 @@
 #
 
 name "opscode-pushy-client-windows"
-default_version "master"
+default_version "ma/zmq4"
 
 # TODO - use public GIT URL when repo made public
 source :git => "git@github.com:opscode/opscode-pushy-client.git"
